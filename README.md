@@ -1,6 +1,6 @@
-# ZkSync [Era、Lite]网络批量刷空投脚本(ZkSync [Era, Lite] Network Batch Airdrop Script)
+# ZkSync [Era、Lite]网络批量刷空投脚本(ZkSync [Era, Lite] Network Batch 2024)
 
-## 全网最强zkSync交互攻略(附撸毛神器，撸毛脚本), 搞起来!!!
+## 全网最强zkSync交互 搞起来!!!
 
 <p align="left">
 <a href="./README.md">简体中文</a> ||   <a href="./README.en.md">English</a>
