@@ -1,4 +1,4 @@
-# ZkSync [Era, Lite] Network Batch Airdrop Script
+# ZkSync  Script
 
 ## The strongest zkSync interaction strategy on the entire network (with wool pulling tools and wool pulling scripts attached) let's do it! 
 
